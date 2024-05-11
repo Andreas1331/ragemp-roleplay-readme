@@ -73,6 +73,8 @@ Character wheel             |  Vehicle wheel
 
 <div align="center"><h3>Vehicle customizer</h3><img src="images/carmodmenu.png" width="65%"/></div>
 
+<div align="center"><h3>General</h3><img src="images/carmodded.png" width="65%"/></div>
+
 <div align="center"><h3>Roulette</h3><img src="images/roulette.png" width="65%"/></div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

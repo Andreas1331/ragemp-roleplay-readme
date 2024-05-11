@@ -60,10 +60,9 @@ The setup in Visual Studio abstracts away some of the tedious tasks, such as mov
 <!-- SCREENSHOTS -->
 ## Screenshots
 
-Login             |  Inventory
-:-------------------------:|:-------------------------:
-![](/images/login.png)  |  ![](/images/inventory.png)
+<div align="center"><h3>Login</h3><img src="images/login.png" width="65%"/></div>
 
+<div align="center"><h3>Inventory</h3><img src="images/inventory.png" width="65%"/></div>
 
 <div align="center"><h3>Clothing customizer</h3><img src="images/clothesmenu.png" width="65%"/></div>
 

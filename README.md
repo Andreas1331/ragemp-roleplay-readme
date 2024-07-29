@@ -46,9 +46,12 @@ At the current state the following is implemented:
 * Clothing customizer using CEF
 * Vehicle tuning using CEF
 * System for interacting with any object in the gameworld
+  * Workable ATM's with GUI to withdraw money from the bank
+  * Every vendingmachine on the map can be interacted with to purchase beverages
 * Interactionwheel to interact with objects and perform actions
 * Binding server-side actions to keystrokes from clients
 * Playable roulette with multiple players
+* Supporting localization to easily transfer the bulk text used in the gamemode to any language of your choosing
 * and more ...
 
 I originally began development in 2021 and abandoned the project again due to time constraints, and I'm revisiting the project once in a while whenever I have the time for it. Also note that some references to SVG (specifically for item icons) files will be null pointers as the files are removed. This is due to copyright, even though they are free for commercial use I've removed them and you'll have to include your own. 
@@ -74,7 +77,10 @@ Character wheel             |  Vehicle wheel
 
 <div align="center"><h3>General</h3><img src="images/carmodded.png" width="65%"/></div>
 
-<div align="center"><h3>Roulette</h3><img src="images/roulette.png" width="65%"/></div>
+Roulette            |  Keypad
+:-------------------------:|:-------------------------:
+![](/images/roulette.png)  |  ![](/images/keypad.png)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

@@ -42,15 +42,15 @@ At the current state the following is implemented:
 * Advanced inventory and item system
 * Inventory menu using CEF
 * Database system utilizing Entity Framework for ORM querying
- * Multiple providers included out of the box (PostgreSQL, MySQL or InMemory)
+  * Multiple providers included out of the box (PostgreSQL, MySQL or InMemory)
 * Clothing customizer using CEF
 * Admin system with multiple levels to control authorization
 * Ticket support for players to get help
 * Factions with members and permissions 
 * Vehicle tuning using CEF
 * System for interacting with any object in the gameworld
-  * Workable ATM's with GUI to withdraw money from the bank
-  * Every vending machine on the map can be interacted with to purchase beverages
+   * Workable ATM's with GUI to withdraw money from the bank
+   * Every vending machine on the map can be interacted with to purchase beverages
 * Interactionwheel to interact with objects and perform actions
 * Binding server-side actions to keystrokes from clients
 * Playable roulette with multiple players

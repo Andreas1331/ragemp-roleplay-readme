@@ -29,6 +29,7 @@
 You can get access by subscribing to my Patreon over at:
 <br>
 https://www.patreon.com/ragemprp
+https://www.gta-roleplaymode.com/
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
@@ -39,19 +40,22 @@ At the current state the following is implemented:
 * Account system with CEF login screen
 * Dynamic animation system with proper player positioning
 * Character system that allows for as many characters as you wish linked to an account
-* Advanced inventory & item system with item bases saved in the database
+* Advanced inventory and item system
 * Inventory menu using CEF
 * Database system utilizing Entity Framework for ORM querying
   * Multiple providers included out of the box (PostgreSQL, MySQL or InMemory)
 * Clothing customizer using CEF
+* Admin system with multiple levels to control authorization
+* Ticket support for players to get help
+* Factions with members and permissions 
 * Vehicle tuning using CEF
 * System for interacting with any object in the gameworld
-  * Workable ATM's with GUI to withdraw money from the bank
-  * Every vendingmachine on the map can be interacted with to purchase beverages
+   * Workable ATM's with GUI to withdraw money from the bank
+   * Every vending machine on the map can be interacted with to purchase beverages
 * Interactionwheel to interact with objects and perform actions
 * Binding server-side actions to keystrokes from clients
 * Playable roulette with multiple players
-* Supporting localization to easily transfer the bulk text used in the gamemode to any language of your choosing
+* Supporting localization to easily translate the bulk text used in the gamemode to any language of your choosing
 * and more ...
 
 I originally began development in 2021 and abandoned the project again due to time constraints, and I'm revisiting the project once in a while whenever I have the time for it. Also note that some references to SVG (specifically for item icons) files will be null pointers as the files are removed. This is due to copyright, even though they are free for commercial use I've removed them and you'll have to include your own. 

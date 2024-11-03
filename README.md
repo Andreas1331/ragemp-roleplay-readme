@@ -29,6 +29,7 @@
 You can get access by subscribing to my Patreon over at:
 <br>
 https://www.patreon.com/ragemprp
+<br>
 https://www.gta-roleplaymode.com/
 
 <!-- ABOUT THE PROJECT -->

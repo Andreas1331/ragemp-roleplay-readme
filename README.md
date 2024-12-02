@@ -33,7 +33,6 @@ https://www.gta-roleplaymode.com/
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
 After being affiliated with other gaming communities as a developer I decided to try and create my own gamemode from scratch. The plan was however never to start up my own server, but rather release my take on a roleplay gamemode where I could try out things my way. The project is written in C# server-side and JavaScript client-side. 
 
 At the current state the following is implemented:
@@ -41,6 +40,8 @@ At the current state the following is implemented:
 * Dynamic animation system with proper player positioning
 * Character system that allows for as many characters as you wish linked to an account
 * Advanced inventory and item system
+* Comprehensive character creator with every option available
+* Sophisticated property system with player owners and linking properties together
 * Inventory menu using CEF
 * Database system utilizing Entity Framework for ORM querying
   * Multiple providers included out of the box (PostgreSQL, MySQL or InMemory)
@@ -69,6 +70,10 @@ The setup in Visual Studio abstracts away some of the tedious tasks, such as mov
 
 <div align="center"><h3>Login</h3><img src="images/login.png" width="65%"/></div>
 
+<div align="center"><h3>Character creator</h3><img src="images/character_creator.png" width="65%"/></div>
+
+<div align="center"><h3>Character selection</h3><img src="images/CharacterSelection.png" width="65%"/></div>
+
 <div align="center"><h3>Inventory</h3><img src="images/inventory.png" width="65%"/></div>
 
 <div align="center"><h3>Clothing customizer</h3><img src="images/clothesmenu.png" width="65%"/></div>
@@ -84,7 +89,6 @@ Character wheel             |  Vehicle wheel
 Roulette            |  Keypad
 :-------------------------:|:-------------------------:
 ![](/images/roulette.png)  |  ![](/images/keypad.png)
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

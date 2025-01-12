@@ -41,6 +41,8 @@ At the current state the following is implemented:
 * Dynamic animation system with proper player positioning
 * Character system that allows for as many characters as you wish linked to an account
 * Advanced inventory and item system
+* Phones with contacts and texting
+* Job system to earn money
 * Comprehensive character creator with every option available
 * Sophisticated property system with player owners and linking properties together
 * Inventory menu using CEF
@@ -79,17 +81,27 @@ The setup in Visual Studio abstracts away some of the tedious tasks, such as mov
 
 <div align="center"><h3>Clothing customizer</h3><img src="images/clothesmenu.png" width="65%"/></div>
 
+<div align="center"><h3>Jobs</h3><img src="images/jobs.png" width="65%"/></div>
+
+<div align="center"><h3>Garbage job</h3><img src="images/garbagejob.png" width="65%"/></div>
+
 Character wheel             |  Vehicle wheel
 :-------------------------:|:-------------------------:
 ![](/images/interactionmenu.png)  |  ![](/images/vehiclemenu.png)
 
 <div align="center"><h3>Vehicle customizer</h3><img src="images/carmodmenu.png" width="65%"/></div>
 
-<div align="center"><h3>General</h3><img src="images/carmodded.png" width="65%"/></div>
+<div align="center"><h3>Phone</h3><img src="images/phone2.png" width="65%"/></div>
 
-Roulette            |  Keypad
-:-------------------------:|:-------------------------:
-![](/images/roulette.png)  |  ![](/images/keypad.png)
+<div align="center"><h3>Phone messages</h3><img src="images/phone1.png" width="65%"/></div>
+
+<div align="center"><h3>Phone contacts</h3><img src="images/phone3.png" width="65%"/></div>
+
+<div align="center"><h3>Roulette</h3><img src="images/roulette.png" width="65%"/></div>
+
+<div align="center"><h3>Keypad</h3><img src="images/keypad.png" width="65%"/></div>
+
+<div align="center"><h3>General</h3><img src="images/carmodded.png" width="65%"/></div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

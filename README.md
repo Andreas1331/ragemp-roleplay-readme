@@ -73,11 +73,15 @@ The setup in Visual Studio abstracts away some of the tedious tasks, such as mov
 
 <div align="center"><h3>Login</h3><img src="images/login.png" width="65%"/></div>
 
+<div align="center"><h3>Registration</h3><img src="images/registration.png" width="65%"/></div>
+
 <div align="center"><h3>Character creator</h3><img src="images/character_creator.png" width="65%"/></div>
 
-<div align="center"><h3>Character selection</h3><img src="images/CharacterSelection.png" width="65%"/></div>
-
 <div align="center"><h3>Inventory</h3><img src="images/inventory.png" width="65%"/></div>
+
+<div align="center"><h3>Character selection</h3><img src="images/character_selection.png" width="65%"/></div>
+
+<div align="center"><h3>HUD</h3><img src="images/game_hud.png" width="65%"/></div>
 
 <div align="center"><h3>Clothing customizer</h3><img src="images/clothesmenu.png" width="65%"/></div>
 
@@ -85,23 +89,31 @@ The setup in Visual Studio abstracts away some of the tedious tasks, such as mov
 
 <div align="center"><h3>Garbage job</h3><img src="images/garbagejob.png" width="65%"/></div>
 
+<div align="center"><h3>Dashboard</h3><img src="images/dashboard.png" width="65%"/></div>
+
 Character wheel             |  Vehicle wheel
 :-------------------------:|:-------------------------:
-![](/images/interactionmenu.png)  |  ![](/images/vehiclemenu.png)
+![](/images/interaction_wheel.png)  |  ![](/images/vehicle_wheel.png)
+
+Dashboard properties             |  Property manager
+:-------------------------:|:-------------------------:
+![](/images/property_manager_01.png)  |  ![](/images/property_manager_02.png)
 
 <div align="center"><h3>Vehicle customizer</h3><img src="images/carmodmenu.png" width="65%"/></div>
 
-<div align="center"><h3>Phone</h3><img src="images/phone2.png" width="65%"/></div>
+<div align="center"><h3>Phone</h3><img src="images/phone_01.png" width="65%"/></div>
 
-<div align="center"><h3>Phone messages</h3><img src="images/phone1.png" width="65%"/></div>
+<div align="center"><h3>Phone contacts</h3><img src="images/phone_02.png" width="65%"/></div>
 
-<div align="center"><h3>Phone contacts</h3><img src="images/phone3.png" width="65%"/></div>
+<div align="center"><h3>Phone contact</h3><img src="images/phone_03.png" width="65%"/></div>
+
+<div align="center"><h3>Phone messages</h3><img src="images/phone_04.png" width="65%"/></div>
 
 <div align="center"><h3>Roulette</h3><img src="images/roulette.png" width="65%"/></div>
 
 <div align="center"><h3>Keypad</h3><img src="images/keypad.png" width="65%"/></div>
 
-<div align="center"><h3>General</h3><img src="images/carmodded.png" width="65%"/></div>
+<div align="center"><h3>General</h3><img src="images/general.png" width="65%"/></div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
